@@ -15,8 +15,9 @@ public class SueldoOperario {
 		teclado.close();
 		Sueldo = horas_trabajadas * costoHora;
 		
-		System.out.println("El sueldo a pagar es" + Sueldo);
+		System.out.println("El sueldo a pagar " + Sueldo);
 		
+		System.out.println("Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		
 
 	}
